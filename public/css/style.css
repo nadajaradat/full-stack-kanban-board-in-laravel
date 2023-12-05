@@ -1,0 +1,20 @@
+main{
+    background-color: #edf0f9 !important;
+}
+
+.card{
+    color:#8d8c9e;
+}
+
+.text-dark{
+    color:#8d8c9e !important;
+}
+
+.active{
+    background-color: #6396b1 !important;
+    color: white !important;
+}
+
+.task.dragging {
+    opacity: .5;
+  }
